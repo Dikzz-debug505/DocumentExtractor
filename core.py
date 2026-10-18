@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+"""Core extract + hash (pure Python, Vercel ready)."""
 import struct
 import json
 import base64
